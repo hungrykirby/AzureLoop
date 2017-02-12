@@ -1,0 +1,28 @@
+{
+  "name": "azureloop",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "engines": {
+    "node": "6.2.2",
+    "npm": "3.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungrykirby/AzureLoop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungrykirby/AzureLoop/issues"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "path": "^0.12.7",
+    "socket.io": "^1.7.1"
+  },
+  "homepage": "https://github.com/hungrykirby/AzureLoop#readme"
+}
